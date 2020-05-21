@@ -1,3 +1,3 @@
-# THNDERBOARD
+# THUNDERBOARD
 trying to understand thunderboard 
 
